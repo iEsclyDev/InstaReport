@@ -1,4 +1,4 @@
-<h1 align="center">🚫 InstaReport v8.6.8</h1>
+<h1 align="center">🚫 InstaReport v8.7.0</h1>
 
 <p align="center">
   <strong>The #1 Social Media Auto-Report, Ban & Unban Automation Tool</strong><br>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v8.6.8-7c3aed?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-v8.7.0-7c3aed?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-2563eb?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Build-Standalone%20Binary-16a34a?style=for-the-badge" alt="Build">
 </p>
