@@ -29,6 +29,7 @@
 | 🕵️ **Built-in Info Scraper** | Extract public profile data across platforms |
 | 🔑 **License-Based Access** | Secure activation — choose from 30-day, 90-day, 1-year or lifetime plans |
 | 🖥️ **Multi-Platform Support** | Runs on Windows & Linux (standalone binary), Android (Termux) |
+| 🤖 **Telegram Bot** | 24/7 active bot for remote commands & ban/unban requests |
 
 <p align="center">
   <a href="https://instagramban.lovable.app/">
@@ -45,6 +46,7 @@
 | [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://instagramban.lovable.app/) | ✅ Supported (Termux) |
 | [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://instagramban.lovable.app/) | ✅ Supported |
 | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ✅ Supported |
+| ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | ✅ 24/7 Active |
 
 ---
 
@@ -91,13 +93,30 @@ python InstaReport.py
 
 > ⚠️ **A valid license key is required.** [Purchase one here →](https://instagramban.lovable.app/pricing)
 
+<details>
+<summary><b>🤖 Telegram Bot</b></summary>
+
+The InstaReport Telegram bot runs 24/7 for on-the-go automation.  
+Send commands directly from your phone — no PC required.
+
+**Available commands:**
+- `/start` — Begin interaction
+- `/banpay` — Request a ban/unban
+- `/banstatus` — Check your ban request status
+- `/buy` — Purchase a license
+- More commands available in the bot
+
+> 👉 **Access the bot:** [https://t.me/iExly](https://t.me/iExly)
+
+</details>
+
 ---
 
 ## 🎯 How It Works
 
 ```
 1️⃣  Purchase a license at instagramban.lovable.app
-2️⃣  Download the binary for your platform from Releases
+2️⃣  Download the binary or use the Telegram bot
 3️⃣  Run it & enter your license key
 4️⃣  Select your target & action — done!
 ```
