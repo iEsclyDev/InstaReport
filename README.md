@@ -99,12 +99,39 @@ python InstaReport.py
 The InstaReport Telegram bot runs 24/7 for on-the-go automation.  
 Send commands directly from your phone — no PC required.
 
-**Available commands:**
-- `/start` — Begin interaction
-- `/banpay` — Request a ban/unban
-- `/banstatus` — Check your ban request status
-- `/buy` — Purchase a license
-- More commands available in the bot
+<table>
+<tr><th width="50%">🔓 Public — No License Needed</th><th width="50%">🔒 License Required</th></tr>
+<tr><td>
+
+| Command | Description |
+|---------|-------------|
+| `/start` | Begin interaction |
+| `/activate` | Activate your license key |
+| `/menu` | Open main menu |
+| `/help` | Show all commands |
+| `/cancel` | Cancel current action |
+| `/fav` | Manage favorite targets |
+| `/history` | View recent report logs |
+| `/accounts` | Manage Instagram accounts |
+| `/config` | Configure settings |
+| `/schedule` | Set up auto-report scheduling |
+| `/banpay` | Request a paid ban/unban |
+| `/banstatus` | Check ban request status |
+
+</td><td>
+
+| Command | Description |
+|---------|-------------|
+| `/report` | Start mass reporting |
+| `/lookup` | Scrape profile info |
+| `/unban` | Submit unban appeal |
+| `/status` | View your config & stats |
+| `/stop` | Stop all running reports |
+
+</td></tr>
+</table>
+
+> 👑 **Admin-only:** `/users` · `/ban` · `/broadcast` · `/admin_pending` · `/admin_approve` · `/admin_reject`
 
 > 👉 **Access the bot:** [https://t.me/iescly](https://t.me/iescly)
 
