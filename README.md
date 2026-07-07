@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://instagramban.lovable.app/"><img src="https://img.shields.io/badge/🌐_Official_Website-instagramban.lovable.app-0a0a0a?style=for-the-badge&labelColor=7c3aed" alt="Visit Website"></a>
   <a href="https://instagramban.lovable.app/pricing"><img src="https://img.shields.io/badge/💰_Buy_License-View_Plans-0a0a0a?style=for-the-badge&labelColor=16a34a" alt="Buy License"></a>
-  <a href="https://t.me/iExly"><img src="https://img.shields.io/badge/Telegram-@iExly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/iescly"><img src="https://img.shields.io/badge/Telegram-@iescly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Send commands directly from your phone — no PC required.
 - `/buy` — Purchase a license
 - More commands available in the bot
 
-> 👉 **Access the bot:** [https://t.me/iExly](https://t.me/iExly)
+> 👉 **Access the bot:** [https://t.me/iescly](https://t.me/iescly)
 
 </details>
 
@@ -169,7 +169,7 @@ We offer flexible plans to fit your needs:
 |---------|------|
 | 🌐 **Website** | [instagramban.lovable.app](https://instagramban.lovable.app/) |
 | 💰 **Buy License** | [View Plans & Pricing](https://instagramban.lovable.app/pricing) |
-| 💬 **Telegram** | [@iExly](https://t.me/iExly) |
+| 💬 **Telegram** | [@iescly](https://t.me/iescly) |
 | 📷 **Instagram** | [@i3scly](https://www.instagram.com/i3scly) |
 
 ---
@@ -183,7 +183,7 @@ This tool is for **educational and research purposes only**. Misuse may violate 
 <p align="center">
   <sub>
     Engineered with passion & precision ⚡ by 
-    <a href="https://t.me/iExly">@iExly</a> · 
+    <a href="https://t.me/iescly">@iescly</a> · 
     <a href="https://instagramban.lovable.app/">instagramban.lovable.app</a>
   </sub>
 </p>
