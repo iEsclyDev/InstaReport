@@ -1,8 +1,16 @@
 <div align="center">
 
-# 🚫 InstaReport
+<a href="https://github.com/iExly/InstaReport">
+  <img src="social-preview.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
+</a>
 
-### Professional Social Media Reporting & Account Management Platform
+</div>
+
+<br>
+
+<div align="center">
+
+### InstaReport
 
 **Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iExly](https://github.com/iExly)**
 
