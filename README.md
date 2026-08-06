@@ -20,7 +20,7 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 
 [![Official Website](https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge&logo=web)](https://instagramban.lovable.app)
 [![Purchase License](https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge&logo=security)](https://instagramban.lovable.app/pricing)
-[![Telegram](https://img.shields.io/badge/Telegram-@iescly-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iescly)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@instaReportV2Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/instaReportV2Bot)
 [![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iExly/InstaReport)
 
 [![GitHub stars](https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iExly/InstaReport/stargazers)
@@ -236,7 +236,7 @@ python InstaReport.py
 
 ### 💬 Telegram Bot
 
-The cloud-hosted Telegram bot is available at [@iescly](https://t.me/iescly). No installation required — activate your license and use it from any device.
+The cloud-hosted Telegram bot is available at [@instaReportV2Bot](https://t.me/instaReportV2Bot). No installation required — activate your license and use it from any device.
 
 ---
 

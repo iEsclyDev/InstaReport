@@ -19,7 +19,7 @@ InstaReport is a cross-platform social media automation platform. The architectu
 │                         Frontends                              │
 │   ┌──────────────┐   ┌──────────────┐   ┌────────────────┐    │
 │   │ Desktop App  │   │ CLI          │   │ Telegram Bot   │    │
-│   │ (Windows/Linux) │  (--cli flag) │   │ (@iescly)      │    │
+│   │ (Windows/Linux) │  (--cli flag) │   │ (@instaReportV2Bot) │
 │   └──────┬───────┘   └──────┬───────┘   └───────┬────────┘    │
 │          └──────────────────┼──────────────────┘             │
 │                             ▼                                  │

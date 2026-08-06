@@ -82,7 +82,7 @@ chmod +x InstaReport-Linux-x86_64.bin
 
 ### Bot not responding
 
-- Confirm you messaged the **official** bot: <https://t.me/iescly>
+- Confirm you messaged the **official** bot: <https://t.me/instaReportV2Bot>
 - The bot is cloud-hosted; brief outages may occur.
 
 ### Commands don't work

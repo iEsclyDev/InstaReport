@@ -129,7 +129,7 @@ Before each campaign run, every account is tested for a valid login session. Dea
 
 ### Where is the official bot?
 
-The official bot is [@iescly](https://t.me/iescly).
+The official Telegram bot is [@instaReportV2Bot](https://t.me/instaReportV2Bot).
 
 ### Do I need a license to use the bot?
 

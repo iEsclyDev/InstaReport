@@ -100,7 +100,7 @@ python InstaReport.py
 
 ## 💬 Telegram Bot
 
-The cloud-hosted Telegram bot is available at [@iescly](https://t.me/iescly). No installation is required — just open the chat and activate your license.
+The cloud-hosted Telegram bot is available at [@instaReportV2Bot](https://t.me/instaReportV2Bot). No installation is required — just open the chat and activate your license.
 
 ---
 

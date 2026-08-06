@@ -12,7 +12,7 @@
 
 ## Overview
 
-The official Telegram bot — [@iescly](https://t.me/iescly) — lets you execute supported operations directly from your phone. It is **cloud-hosted** and designed to operate 24/7.
+The official Telegram bot — [@instaReportV2Bot](https://t.me/instaReportV2Bot) — lets you execute supported operations directly from your phone. It is **cloud-hosted** and designed to operate 24/7.
 
 > 💡 A **Discord bot** with the same engine, backend and license is also available — see the [Discord Bot reference](discord.md).
 
@@ -22,7 +22,7 @@ Premium users unlock the full feature set through their activated license.
 
 ## Getting Started
 
-1. Open the official bot: <https://t.me/iescly>
+1. Open the official bot: <https://t.me/instaReportV2Bot>
 2. Send `/start` to show the main menu.
 3. Send `/activate CODE` with your license key.
 4. Send `/status` to confirm your configuration and stats.
