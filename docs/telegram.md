@@ -14,6 +14,8 @@
 
 The official Telegram bot — [@iescly](https://t.me/iescly) — lets you execute supported operations directly from your phone. It is **cloud-hosted** and designed to operate 24/7.
 
+> 💡 A **Discord bot** with the same engine, backend and license is also available — see the [Discord Bot reference](discord.md).
+
 Premium users unlock the full feature set through their activated license.
 
 ---
@@ -118,6 +120,7 @@ The bot is designed to operate 24/7 from the cloud.
 
 ## Related
 
+- [Discord Bot](discord.md)
 - [Installation Guide](installation.md)
 - [Architecture](architecture.md)
 - [Troubleshooting](troubleshooting.md)

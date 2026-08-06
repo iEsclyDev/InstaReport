@@ -80,7 +80,11 @@ Contact support via the official Telegram channel with your purchase details.
 
 ### Which operating systems are supported?
 
-Windows 10/11, Ubuntu, Kali Linux, Debian, Android (Termux) and the cloud-hosted Telegram bot.
+Windows 10/11, Ubuntu, Kali Linux, Debian, Android (Termux), the cloud-hosted Telegram bot and the Discord bot.
+
+### Is there a Discord bot?
+
+Yes. The same engine, backend and license power a **Discord bot** available in the official server: <https://discord.com/invite/v6ebT5aFx>. Your license works across both the Telegram and Discord bots.
 
 ### Is Python required?
 

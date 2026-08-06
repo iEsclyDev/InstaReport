@@ -45,6 +45,7 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 - [📥 Installation](#-installation)
 - [🔑 License Activation](#-license-activation)
 - [🤖 Telegram Bot](#-telegram-bot)
+- [🎮 Discord Bot](#-discord-bot)
 - [🔒 Security & Privacy](#-security--privacy)
 - [📸 Screenshots](#-screenshots)
 - [❓ Frequently Asked Questions](#-frequently-asked-questions)
@@ -92,6 +93,7 @@ Due to the popularity of the project, there are unofficial repositories, fake se
 | 🌐 Official Website | <https://instagramban.lovable.app> |
 | ⭐ Official GitHub | <https://github.com/iExly/InstaReport> |
 | 💬 Official Telegram | <https://t.me/iescly> |
+| 🎮 Official Discord | <https://discord.com/invite/v6ebT5aFx> |
 | 📺 Official YouTube | <https://youtube.com/@iEscly> |
 | 📸 Official Instagram | <https://instagram.com/i3scly> |
 
@@ -121,6 +123,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | 🚀 Automated Reporting Engine | ✅ |
 | 🛡 Account Management Workflows | ✅ |
 | 🤖 Telegram Bot | ✅ |
+| 🎮 Discord Bot | ✅ |
 | 🔍 Profile Information Lookup | ✅ |
 | 🔑 Secure License System | ✅ |
 | ⚡ Standalone Binaries | ✅ |
@@ -156,6 +159,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | 🐧 Debian | ✅ Supported |
 | 🤖 Android (Termux) | ✅ Supported |
 | 💬 Telegram Bot | ✅ Supported |
+| 🎮 Discord Bot | ✅ Supported |
 | 🚧 Future Platforms | 🚧 Planned |
 
 ---
@@ -167,6 +171,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | 🚀 Reporting Engine | Automated reporting workflows with configurable behaviour, workers and retries |
 | 🛡 Account Management | Tools designed to assist with account management workflows |
 | 📱 Telegram Integration | Execute supported operations directly from Telegram, 24/7 |
+| 🎮 Discord Integration | Run the same operations directly from a Discord server |
 | 🔍 Profile Utilities | Public profile information lookup tools |
 | 🔑 License System | Secure online license activation and verification |
 | ⚡ Standalone Binaries | No complicated installation required |
@@ -289,6 +294,55 @@ Premium users unlock additional commands through their activated license.
 
 ---
 
+## 🎮 Discord Bot
+
+The Discord bot provides the same operations directly from your Discord server — fully cloud-hosted and available 24/7.
+
+**Join the server:** <https://discord.com/invite/v6ebT5aFx>
+
+Same license, same engine, same backend as the Telegram bot — activate once and use it from either platform.
+
+### User Commands
+
+| Command | Description |
+|---------|-------------|
+| `/start` | Welcome screen |
+| `/menu` | Main control panel |
+| `/activate` | Activate your license code |
+| `/report <target>` | Start a report |
+| `/stop` | Stop your active report |
+| `/resume` | Resume your last interrupted campaign |
+| `/accounts` | Manage your accounts |
+| `/config` | View / edit report settings |
+| `/status` | View config & license info |
+| `/history` | Recent run logs |
+| `/favorites` | Your saved favorite targets |
+| `/fav add <target>` | Add a favorite target |
+| `/fav del <target>` | Remove a favorite target |
+| `/balance` | Check your balance |
+| `/refund <amount>` | Request a refund / withdrawal |
+| `/refundstatus` | Refund request history |
+| `/banpay` | Purchase a ban/unban via crypto |
+| `/banstatus` | Ban/unban request history |
+| `/help` | List all commands |
+
+### Admin Commands
+
+| Command | Description |
+|---------|-------------|
+| `/admin pending` | List pending ban/refund requests |
+| `/admin approve <id>` | Approve a ban or refund request |
+| `/admin reject <id>` | Reject a ban or refund request |
+| `/setbalance <user> <amount>` | Set a user's balance |
+| `/migrate` | Credit legacy approved ban requests |
+| `/users` | List all licensed users |
+| `/ban <user>` | Revoke a user's license |
+| `/broadcast <msg>` | DM all licensed users |
+
+Premium users unlock additional commands through their activated license.
+
+---
+
 ## 🔒 Security & Privacy
 
 - **Online license validation** with hardware-ID binding — keys cannot be shared across devices.
@@ -389,6 +443,7 @@ Check the [CHANGELOG.md](CHANGELOG.md) or the [online changelog](https://instagr
 |----------|---------|
 | [Installation Guide](docs/installation.md) | Step-by-step setup for every platform |
 | [Telegram Bot](docs/telegram.md) | Full bot feature and command reference |
+| [Discord Bot](docs/discord.md) | Discord bot, invite and command reference |
 | [Pricing](docs/pricing.md) | License plans and purchase information |
 | [Architecture](docs/architecture.md) | Engine architecture and technical details |
 | [Troubleshooting](docs/troubleshooting.md) | Common issues and solutions |
@@ -408,6 +463,7 @@ The InstaReport community has been growing since 2021.
 
 - 🌐 **Website:** <https://instagramban.lovable.app>
 - 💬 **Telegram:** <https://t.me/iescly>
+- 🎮 **Discord:** <https://discord.com/invite/v6ebT5aFx>
 - 📺 **YouTube:** <https://youtube.com/@iEscly>
 - 📸 **Instagram:** <https://instagram.com/i3scly>
 - ⭐ **GitHub:** <https://github.com/iExly/InstaReport>

@@ -24,6 +24,7 @@ This documentation covers everything you need to know about **InstaReport** — 
 |----------|---------|
 | [Installation Guide](installation.md) | Step-by-step setup for Windows, Linux and Android (Termux) |
 | [Telegram Bot](telegram.md) | Full bot feature and command reference |
+| [Discord Bot](discord.md) | Discord bot, invite and command reference |
 | [Pricing](pricing.md) | License plans and how to purchase |
 | [Architecture](architecture.md) | Engine architecture and technical details |
 | [Troubleshooting](troubleshooting.md) | Common issues and their solutions |
@@ -52,6 +53,7 @@ This documentation covers everything you need to know about **InstaReport** — 
 
 - 🌐 **Official Website:** <https://instagramban.lovable.app>
 - 💬 **Official Telegram:** <https://t.me/iescly>
+- 🎮 **Official Discord:** <https://discord.com/invite/v6ebT5aFx>
 - 💎 **Pricing:** <https://instagramban.lovable.app/pricing>
 - 📝 **Online Changelog:** <https://instagramban.lovable.app/changelog>
 

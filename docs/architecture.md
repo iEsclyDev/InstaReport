@@ -89,6 +89,16 @@ The same engine can be driven from a terminal via the `--cli` flag, enabling hea
 
 ---
 
+## Discord Bot
+
+- Cloud-hosted, built with `discord.py` (>= 2.4).
+- Discord-native **slash commands** and interactive views/modals, plus text commands in DMs.
+- Shares the same engine, licensing API, accounts, config and balance system as the Telegram bot.
+- Reporting, resume, favorites, balance, ban/unban purchase, refunds and admin moderation.
+- 2FA / OTP and captcha prompts delivered to the user via Discord DM mid-report.
+
+---
+
 ## Licensing System
 
 - Licenses are validated **online** against the licensing API.

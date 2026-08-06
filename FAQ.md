@@ -145,6 +145,22 @@ The bot is **cloud-hosted** and designed to operate 24/7.
 
 ---
 
+## Discord Bot
+
+### Is there a Discord bot?
+
+Yes. The same engine, backend and license power a **Discord bot** available in the official server: <https://discord.com/invite/v6ebT5aFx>
+
+### Do I need a separate license for Discord?
+
+No. Your license works across both the Telegram and Discord bots.
+
+### What commands does the Discord bot support?
+
+See the [Discord Bot reference](docs/discord.md) for the full command list.
+
+---
+
 ## Support & Refunds
 
 ### How do I get support?
