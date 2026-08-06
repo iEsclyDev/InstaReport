@@ -1,216 +1,142 @@
-<h1 align="center">🚫 InstaReport v8.7.0</h1>
+<h1 align="center">
+🚫 InstaReport
+</h1>
 
 <p align="center">
-  <strong>The #1 Social Media Auto-Report, Ban & Unban Automation Tool</strong><br>
-  One-click mass reporting · Cross-platform banning · Account unbanning · Info scraping
+
+<strong>
+Professional Social Media Reporting & Account Management Platform
+</strong>
+
+<br>
+
+Actively developed since <strong>2021</strong>
+
+<br>
+
+Officially maintained by <strong>iExly</strong>
+
+<br>
+
+Originally created under the <strong>Credly</strong> project and later known as <strong>iEscly</strong>
+
 </p>
 
 <p align="center">
-  <a href="https://instagramban.lovable.app/"><img src="https://img.shields.io/badge/🌐_Official_Website-instagramban.lovable.app-0a0a0a?style=for-the-badge&labelColor=7c3aed" alt="Visit Website"></a>
-  <a href="https://instagramban.lovable.app/pricing"><img src="https://img.shields.io/badge/💰_Buy_License-View_Plans-0a0a0a?style=for-the-badge&labelColor=16a34a" alt="Buy License"></a>
-  <a href="https://t.me/iescly"><img src="https://img.shields.io/badge/Telegram-@iescly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+
+<a href="https://instagramban.lovable.app">
+<img src="https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge">
+</a>
+
+<a href="https://instagramban.lovable.app/pricing">
+<img src="https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge">
+</a>
+
+<a href="https://t.me/iescly">
+<img src="https://img.shields.io/badge/Telegram-@iEscly-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://github.com/iExly/InstaReport">
+<img src="https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v8.7.0-7c3aed?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-2563eb?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Build-Standalone%20Binary-16a34a?style=for-the-badge" alt="Build">
-</p>
 
----
+<img src="https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge">
 
-## 🔥 Why InstaReport?
+<img src="https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge">
 
-| Feature | Description |
-|---------|-------------|
-| ⚡ **Next-Gen Auto-Ban Engine** | Mass-report Instagram accounts and content with a single click |
-| 🛡️ **Social Unbanning** | Recover banned accounts on Instagram, Snapchat, Twitter & TikTok |
-| 💣 **Cross-Platform Targeting** | Works on Instagram, Twitter/X, Threads & Snapchat |
-| 🕵️ **Built-in Info Scraper** | Extract public profile data across platforms |
-| 🔑 **License-Based Access** | Secure activation — choose from 30-day, 90-day, 1-year or lifetime plans |
-| 🖥️ **Multi-Platform Support** | Runs on Windows & Linux (standalone binary), Android (Termux) |
-| 🤖 **Telegram Bot** | 24/7 active bot for remote commands & ban/unban requests |
+<img src="https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge">
 
-<p align="center">
-  <a href="https://instagramban.lovable.app/">
-    <img src="https://img.shields.io/badge/👉_Get_Started_Now-instagramban.lovable.app-7c3aed?style=for-the-badge" alt="Get Started">
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Version-v8.7.0-purple?style=for-the-badge">
 
----
-
-## 💻 Compatibility
-
-| Platform | Status |
-|----------|--------|
-| [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://instagramban.lovable.app/) | ✅ Supported (Termux) |
-| [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://instagramban.lovable.app/) | ✅ Supported |
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ✅ Supported |
-| ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | ✅ 24/7 Active |
-
----
-
-## 📦 Quick Installation
-
-<details>
-<summary><b>🖥️ Windows 10 / 11</b></summary>
-
-```bash
-1. Download the latest release from GitHub Releases
-2. Run InstaReport-Windows-x86_64.exe
-3. Enter your license key when prompted
-```
-
-> ⚠️ Some antivirus software or Windows Defender may display false-positive warnings due to executable packing. Verify the source and allow manually.
-
-</details>
-
-<details>
-<summary><b>🐧 Kali Linux / Ubuntu</b></summary>
-
-```bash
-1. Download the latest release from GitHub Releases
-2. chmod +x InstaReport-Linux-x86_64.bin
-3. ./InstaReport-Linux-x86_64.bin
-```
-
-No Python or dependencies required.
-
-</details>
-
-<details>
-<summary><b>📱 Termux / Android</b></summary>
-
-```bash
-apt update && apt upgrade
-pkg install python git
-git clone https://github.com/iExly/InstaReport
-cd InstaReport
-pip install -r requirements.txt
-python InstaReport.py
-```
-</details>
-
-> ⚠️ **A valid license key is required.** [Purchase one here →](https://instagramban.lovable.app/pricing)
-
-<details>
-<summary><b>🤖 Telegram Bot</b></summary>
-
-The InstaReport Telegram bot runs 24/7 for on-the-go automation.  
-Send commands directly from your phone — no PC required.
-
-<table>
-<tr><th width="50%">🔓 Public — No License Needed</th><th width="50%">🔒 License Required</th></tr>
-<tr><td>
-
-| Command | Description |
-|---------|-------------|
-| `/start` | Begin interaction |
-| `/activate` | Activate your license key |
-| `/menu` | Open main menu |
-| `/help` | Show all commands |
-| `/cancel` | Cancel current action |
-| `/fav` | Manage favorite targets |
-| `/history` | View recent report logs |
-| `/accounts` | Manage Instagram accounts |
-| `/config` | Configure settings |
-| `/schedule` | Set up auto-report scheduling |
-| `/banpay` | Request a paid ban/unban |
-| `/banstatus` | Check ban request status |
-
-</td><td>
-
-| Command | Description |
-|---------|-------------|
-| `/report` | Start mass reporting |
-| `/lookup` | Scrape profile info |
-| `/unban` | Submit unban appeal |
-| `/status` | View your config & stats |
-| `/stop` | Stop all running reports |
-
-</td></tr>
-</table>
-
-> 👑 **Admin-only:** `/users` · `/ban` · `/broadcast` · `/admin_pending` · `/admin_approve` · `/admin_reject`
-
-> 👉 **Access the bot:** [https://t.me/iescly](https://t.me/iescly)
-
-</details>
-
----
-
-## 🎯 How It Works
-
-```
-1️⃣  Purchase a license at instagramban.lovable.app
-2️⃣  Download the binary or use the Telegram bot
-3️⃣  Run it & enter your license key
-4️⃣  Select your target & action — done!
-```
-
----
-
-## 💰 Pricing Plans
-
-We offer flexible plans to fit your needs:
-
-| Plan | Duration | Best For |
-|------|----------|----------|
-| 🟢 **30 Days** | 1 month | Try it out |
-| 🔵 **90 Days** | 3 months | Regular users |
-| 🟣 **1 Year** | 12 months | Power users |
-| 👑 **Lifetime** | Forever | Best value |
-
-> 💡 **Use coupon codes at checkout for exclusive discounts!**
-
-<p align="center">
-  <a href="https://instagramban.lovable.app/pricing">
-    <img src="https://img.shields.io/badge/View_All_Plans_&_Pricing-instagramban.lovable.app-16a34a?style=for-the-badge" alt="View Pricing">
-  </a>
 </p>
 
 ---
 
-## 🌐 Live Stats
+# ⭐ Official Repository
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iExly.InstaReport" alt="Visitors">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Finstagramban.lovable.app&label=Website" alt="Website Status">
-</p>
+Welcome to the **official GitHub repository** of **InstaReport**.
 
----
+InstaReport is a premium social media automation project that has been under continuous development since **2021**.
 
-## 📊 Repo Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&color=7c3aed" alt="Stars">
-  <img src="https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge&color=2563eb" alt="Forks">
-  <img src="https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge&color=16a34a" alt="Last Commit">
-</p>
+If you've previously used **Credly** or **iEscly**, you're in the correct place—the project has simply evolved under a new identity.
 
 ---
 
-## 📩 Contact & Purchase
+# 📖 Project History
 
-| Channel | Link |
-|---------|------|
-| 🌐 **Website** | [instagramban.lovable.app](https://instagramban.lovable.app/) |
-| 💰 **Buy License** | [View Plans & Pricing](https://instagramban.lovable.app/pricing) |
-| 💬 **Telegram** | [@iescly](https://t.me/iescly) |
-| 📷 **Instagram** | [@i3scly](https://www.instagram.com/i3scly) |
+The history of InstaReport spans multiple years of active development.
+
+| Year | Brand |
+|------|-------|
+| 2021 | Credly |
+| 2022–2026 | iEscly |
+| 2026–Present | iExly |
+
+Thousands of hours have gone into building, maintaining, improving and supporting this software across multiple platforms.
+
+This repository represents the latest official release.
 
 ---
 
-## ⚠️ Disclaimer
+# ⚠ Beware of Fake Copies
 
-This tool is for **educational and research purposes only**. Misuse may violate platform Terms of Service. The developers are not responsible for any misuse. Use responsibly.
+Due to the popularity of the project, there are unofficial repositories, fake sellers and impersonators online.
+
+Always verify that you're using the official resources listed below before downloading software or purchasing a license.
+
+✅ Official Website
+
+https://instagramban.lovable.app
+
+✅ Official GitHub
+
+https://github.com/iExly/InstaReport
+
+✅ Official Telegram
+
+https://t.me/iescly
 
 ---
 
-<p align="center">
-  <sub>
-    Engineered with passion & precision ⚡ by 
-    <a href="https://t.me/iescly">@iescly</a> · 
-    <a href="https://instagramban.lovable.app/">instagramban.lovable.app</a>
-  </sub>
-</p>
+# 🚀 Why Choose InstaReport?
+
+Unlike many public scripts or abandoned projects, InstaReport receives continuous updates, feature improvements and long-term support.
+
+✔ Active development
+
+✔ Regular feature releases
+
+✔ Cross-platform compatibility
+
+✔ Telegram integration
+
+✔ Premium licensing
+
+✔ Dedicated customer support
+
+✔ Frequent bug fixes
+
+✔ Built since 2021
+
+---
+
+# 📑 Table of Contents
+
+- About
+- Features
+- Compatibility
+- Installation
+- Telegram Bot
+- Pricing
+- Screenshots
+- FAQ
+- Changelog
+- Support
+- Security
+- Disclaimer
+
+---
