@@ -249,4 +249,192 @@ Every update aims to improve performance, usability, compatibility and overall u
 
 Version **8.7.0** represents years of continuous development rather than a one-time release.
 
+# 💻 Supported Platforms
+
+InstaReport has been designed to run on multiple operating systems without requiring complex setup.
+
+| Platform | Status | Installation |
+|----------|---------|--------------|
+| 🪟 Windows 10 / 11 | ✅ Supported | Standalone Executable |
+| 🐧 Ubuntu | ✅ Supported | Standalone Binary |
+| 🐉 Kali Linux | ✅ Supported | Standalone Binary |
+| 🤖 Android (Termux) | ✅ Supported | Python Version |
+| 📱 Telegram Bot | ✅ Supported | Cloud Hosted |
+
+---
+
+# 📸 Screenshots
+
+> Real screenshots of InstaReport are available here:
+
+## 🖥 Desktop Version
+
+Coming Soon
+
+*(Replace this with screenshots from your software.)*
+
+---
+
+## 📱 Telegram Bot
+
+Coming Soon
+
+*(Replace this with Telegram screenshots.)*
+
+---
+
+## 🎬 Live Demonstrations
+
+Project demonstrations, customer work examples and feature previews are regularly shared through our official channels.
+
+### Official Work Showcase
+
+https://t.me/+Q1JOkBB4a5w2MGZh
+
+---
+
+### Customer Vouches
+
+https://t.me/iVouchiEscly
+
+---
+
+### Official Telegram
+
+https://t.me/iescly
+
+---
+
+# 📦 Installation
+
+Choose your preferred platform.
+
+---
+
+## 🪟 Windows
+
+Download the latest Windows release from GitHub Releases.
+
+Run
+
+```
+InstaReport-Windows-x86_64.exe
+```
+
+Enter your license.
+
+Done.
+
+No additional dependencies required.
+
+---
+
+## 🐧 Linux
+
+```
+chmod +x InstaReport-Linux-x86_64.bin
+
+./InstaReport-Linux-x86_64.bin
+```
+
+No Python installation required.
+
+---
+
+## 🤖 Android (Termux)
+
+```bash
+pkg update
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/iExly/InstaReport
+
+cd InstaReport
+
+pip install -r requirements.txt
+
+python InstaReport.py
+```
+
+---
+
+# 🔑 License Activation
+
+After installation:
+
+1. Purchase a license
+
+2. Launch InstaReport
+
+3. Enter your activation key
+
+4. Begin using supported features
+
+---
+
+# 🤖 Telegram Bot
+
+The Telegram bot allows supported operations directly from your phone.
+
+Features include:
+
+- License activation
+- Account management
+- Profile lookup
+- Configuration
+- History
+- Favorites
+- Remote commands
+
+Premium users unlock additional commands through their activated license.
+
+Official Bot
+
+https://t.me/iescly
+
+---
+
+# ❤️ Community
+
+The InstaReport community has been growing since 2021.
+
+Official resources:
+
+🌐 Website
+
+https://instagramban.lovable.app
+
+💬 Telegram
+
+https://t.me/iescly
+
+📺 YouTube
+
+https://youtube.com/@iEscly
+
+⭐ GitHub
+
+https://github.com/iExly/InstaReport
+
+---
+
+# 📢 Updates
+
+Every major version introduces improvements in:
+
+- Performance
+- Compatibility
+- Stability
+- User Experience
+- Automation
+- Licensing
+- Documentation
+
+Full changelog:
+
+https://instagramban.lovable.app/changelog
+
 ---
