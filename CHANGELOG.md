@@ -1,4 +1,14 @@
-# Changelog
+<div align="center">
+
+# 📝 Changelog
+
+### InstaReport — Release History
+
+[← Back to README](README.md) &nbsp;·&nbsp; [Online Changelog](https://instagramban.lovable.app/changelog)
+
+</div>
+
+---
 
 ## [8.7.0] — 2026-07-07
 
