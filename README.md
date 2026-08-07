@@ -496,7 +496,6 @@ Full changelog:
 
 **InstaReport** — a premium social media automation platform by [iEscly](https://github.com/iEsclyDev)
 
-Originally **Credly** · Later **iEscly** · Now **InstaReport by iExly**
 
 Copyright © 2021 – 2026 iExly. All rights reserved.
 
