@@ -10,6 +10,15 @@
 
 ---
 
+## [8.7.5] — 2026-08-08
+
+### 🔧 Improvements
+
+- **Linux notify-send guard** — desktop notifications check `shutil.which("notify-send")` first and skip gracefully on minimal distros instead of failing silently
+- **Portable shebang** — `main.py` uses `#!/usr/bin/env python3`, so `./main.py` works on any Linux box regardless of Python install path
+- **Dockerfile** — added `libnotify-bin` for notify support inside containers
+- **Distribution sync** — desktop build brought to full parity with the v8.7.5 distribution tree (API server, split dialogs, cross-platform fonts)
+
 ## [8.7.0] — 2026-07-07
 
 ### 🚀 New Features

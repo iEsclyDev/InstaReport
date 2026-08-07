@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <a href="https://github.com/iExly/InstaReport">
   <img src="social-preview.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
@@ -25,7 +25,7 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 
 [![GitHub stars](https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iExly/InstaReport/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iExly/InstaReport/network)
-[![Version](https://img.shields.io/badge/Version-v8.7.0-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iExly/InstaReport/releases)
+[![Version](https://img.shields.io/badge/Version-v8.7.5-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iExly/InstaReport/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge&color=16a34a)](https://github.com/iExly/InstaReport/commits/main)
 
 </div>
@@ -134,7 +134,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | ❤️ Dedicated Support | ✅ |
 | 💎 Multiple License Plans | ✅ |
 
-### Engine Highlights (v8.7.0)
+### Engine Highlights (v8.7.5)
 
 - **Randomized action delays** — all timing constants apply ±30% jitter automatically to mimic human behavior and avoid detection patterns.
 - **Exponential backoff on retry** — account retries use `min(10 × 2^attempt, 300s)` + random jitter instead of linear steps, greatly improving success rate under rate limits.

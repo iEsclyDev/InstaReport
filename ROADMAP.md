@@ -1,10 +1,10 @@
-# 🗺 Roadmap
+﻿# 🗺 Roadmap
 
 **InstaReport** is under active development. This roadmap reflects the current direction and planned work. Items may shift based on user feedback and priorities.
 
 ---
 
-## Recently Shipped — v8.7.0
+## Recently Shipped — v8.7.5
 
 - ✅ Randomized action delays (±30% jitter) to mimic human behavior
 - ✅ Exponential backoff on retry (`min(10 × 2^attempt, 300s)`)
