@@ -19,7 +19,7 @@ InstaReport ships as **standalone binaries** for Windows and Linux, and a **Pyth
 | Resource | Link |
 |----------|------|
 | Official Website | <https://instagramban.lovable.app> |
-| Official GitHub | <https://github.com/iExly/InstaReport> |
+| Official GitHub | <https://github.com/iEsclyDev/instareport> |
 | Official Telegram | <https://t.me/iescly> |
 
 ---
@@ -33,7 +33,7 @@ InstaReport ships as **standalone binaries** for Windows and Linux, and a **Pyth
 
 ### Installation
 
-1. Download the latest Windows release from [GitHub Releases](https://github.com/iExly/InstaReport/releases).
+1. Download the latest Windows release from [GitHub Releases](https://github.com/iEsclyDev/instareport/releases).
 2. Locate `InstaReport-Windows-x86-64.exe`.
 3. Double-click to run.
 

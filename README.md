@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<a href="https://github.com/iExly/InstaReport">
+<a href="https://github.com/iEsclyDev/instareport">
   <img src="social-preview.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
 </a>
 
@@ -12,7 +12,7 @@
 
 ### InstaReport
 
-**Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iExly](https://github.com/iExly)**
+**Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iEscly](https://github.com/iEsclyDev)**
 
 Originally created under the **Credly** project, later known as **iEscly**, now released as **InstaReport** by **iExly**.
 
@@ -21,12 +21,12 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 [![Official Website](https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge&logo=web)](https://instagramban.lovable.app)
 [![Purchase License](https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge&logo=security)](https://instagramban.lovable.app/pricing)
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@instaReportV2Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/instaReportV2Bot)
-[![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iExly/InstaReport)
+[![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iEsclyDev/instareport)
 
-[![GitHub stars](https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iExly/InstaReport/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iExly/InstaReport/network)
-[![Version](https://img.shields.io/badge/Version-v8.7.5-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iExly/InstaReport/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge&color=16a34a)](https://github.com/iExly/InstaReport/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/network)
+[![Version](https://img.shields.io/badge/Version-v8.7.5-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyDev/instareport/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyDev/instareport/commits/main)
 
 </div>
 
@@ -91,7 +91,7 @@ Due to the popularity of the project, there are unofficial repositories, fake se
 | Official Resource | Link |
 |-------------------|------|
 | 🌐 Official Website | <https://instagramban.lovable.app> |
-| ⭐ Official GitHub | <https://github.com/iExly/InstaReport> |
+| ⭐ Official GitHub | <https://github.com/iEsclyDev/instareport> |
 | 💬 Official Telegram | <https://t.me/iescly> |
 | 🎮 Official Discord | <https://discord.com/invite/v6ebT5aFx> |
 | 📺 Official YouTube | <https://youtube.com/@iEscly> |
@@ -201,7 +201,7 @@ Choose your preferred platform.
 
 ### 🪟 Windows
 
-1. Download the latest Windows release from [GitHub Releases](https://github.com/iExly/InstaReport/releases).
+1. Download the latest Windows release from [GitHub Releases](https://github.com/iEsclyDev/instareport/releases).
 2. Run:
 
 ```
@@ -466,7 +466,7 @@ The InstaReport community has been growing since 2021.
 - 🎮 **Discord:** <https://discord.com/invite/v6ebT5aFx>
 - 📺 **YouTube:** <https://youtube.com/@iEscly>
 - 📸 **Instagram:** <https://instagram.com/i3scly>
-- ⭐ **GitHub:** <https://github.com/iExly/InstaReport>
+- ⭐ **GitHub:** <https://github.com/iEsclyDev/instareport>
 - 🎬 **Showcase:** <https://t.me/+Q1JOkBB4a5w2MGZh>
 - ✅ **Vouches:** <https://t.me/iVouchiEscly>
 
@@ -494,7 +494,7 @@ Full changelog:
 
 <div align="center">
 
-**InstaReport** — a premium social media automation platform by [iExly](https://github.com/iExly)
+**InstaReport** — a premium social media automation platform by [iEscly](https://github.com/iEsclyDev)
 
 Originally **Credly** · Later **iEscly** · Now **InstaReport by iExly**
 
