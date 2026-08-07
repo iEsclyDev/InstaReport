@@ -23,10 +23,10 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@instaReportV2Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/instaReportV2Bot)
 [![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iEsclyDev/instareport)
 
-[![GitHub stars](https://img.shields.io/github/stars/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iExly/InstaReport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/network)
+[![GitHub stars](https://img.shields.io/github/stars/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/network)
 [![Version](https://img.shields.io/badge/Version-v8.7.5-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyDev/instareport/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iExly/InstaReport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyDev/instareport/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/iEsclyDev/instareport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyDev/instareport/commits/main)
 
 </div>
 
