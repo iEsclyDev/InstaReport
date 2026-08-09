@@ -130,6 +130,6 @@ The bot is designed to operate 24/7 from the cloud.
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
