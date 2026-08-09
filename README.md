@@ -136,7 +136,7 @@ InstaReport has remained under active development since **2021**, making it one 
 
 ### Engine Highlights (v8.7.5)
 
-- **Randomized action delays** — all timing constants apply ±30% jitter automatically to mimic human behavior and avoid detection patterns.
+- **Adaptive request timing** — configurable delays with automatic jitter help manage rate limits and improve reliability.
 - **Exponential backoff on retry** — account retries use `min(10 × 2^attempt, 300s)` + random jitter instead of linear steps, greatly improving success rate under rate limits.
 - **Account health pre-check** — before each campaign run, every account is tested for a valid login session. Dead accounts are skipped automatically.
 - **Bulk target import** — load targets from a `.txt` file (one per line, `#` for comments).
@@ -144,7 +144,7 @@ InstaReport has remained under active development since **2021**, making it one 
 - **Campaign resume support** — campaign progress is saved to SQLite, ready for resume in a future release.
 - **Proxy support** — configurable proxies with automatic blacklisting after repeated failures.
 - **2FA / OTP handling** — Telegram-based OTP collection with a 120-second timeout window.
-- **Stealth & safe modes** — toggleable browser stealth and safe-mode operation.
+- **Safe & compatibility modes** — toggleable safe-mode and compatibility-mode operation for reliable session handling.
 
 ---
 
@@ -352,7 +352,7 @@ Premium users unlock additional commands through their activated license.
 - **Online license validation** with hardware-ID binding — keys cannot be shared across devices.
 - **Credential encryption** using PBKDF2 (480,000 iterations) for local credential storage.
 - **No public code exposure** — the codebase is distributed exclusively through official, license-protected channels.
-- **Rate-limit aware** — exponential backoff and randomized delays protect account health.
+- **Rate-limit aware** — exponential backoff and adaptive timing help avoid rate limits and keep accounts healthy.
 - **Account health checks** — invalid sessions are detected and skipped automatically.
 
 If you discover a security issue, please report it privately — see [SECURITY.md](SECURITY.md).
@@ -501,7 +501,8 @@ Full changelog:
 **InstaReport** — a premium social media automation platform by [iEscly](https://github.com/iEsclyDev)
 
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev — developed by iEscly. All rights reserved.
 
 </div>
+
 
