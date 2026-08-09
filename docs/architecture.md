@@ -135,6 +135,6 @@ The same engine can be driven from a terminal via the `--cli` flag, enabling hea
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
