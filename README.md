@@ -222,14 +222,18 @@ No Python installation required for the standalone binary.
 
 ### 🤖 Android (Termux)
 
-> The Termux (Python) build is distributed through **official channels only**. Do not install from third-party mirrors.
+> The Termux (Python) build is distributed through **official channels only**. Do not install from third-party mirrors, sellers or clone URLs — there is no public source repository.
 
 ```bash
 pkg update
-pkg install git python
-# Obtain the current Python build from the official Telegram channel
-git clone <official-source-url>
-cd <source-folder>
+pkg install python
+
+# Download the official Termux build from the official Telegram channel:
+#   https://t.me/iescly
+# (This is the ONLY place the build is distributed. If it is not listed
+# there yet, it is not available — do not use third-party mirrors.)
+
+# After extracting the downloaded build into this folder:
 pip install -r requirements.txt
 python InstaReport.py
 ```
@@ -500,3 +504,4 @@ Full changelog:
 Copyright © 2021 – 2026 iExly. All rights reserved.
 
 </div>
+
