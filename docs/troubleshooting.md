@@ -119,6 +119,6 @@ Include your **platform**, **version** and a clear description of the problem to
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
