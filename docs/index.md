@@ -14,7 +14,7 @@
 
 This documentation covers everything you need to know about **InstaReport** — from installation and license activation to the full Telegram bot reference and engine architecture.
 
-> InstaReport is a premium social media automation platform developed and maintained by **iExly** since **2021**. Originally created under the **Credly** project and later known as **iEscly**.
+> InstaReport is a premium social media automation platform developed and maintained by **iEsclyDev** since **2021**. Originally created under the **Credly** project and later known as **iEscly**.
 
 ---
 
@@ -61,6 +61,6 @@ This documentation covers everything you need to know about **InstaReport** — 
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
