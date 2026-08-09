@@ -14,7 +14,7 @@
 
 ### What is InstaReport?
 
-InstaReport is a premium social media automation platform developed and maintained by **iExly**. It combines an automated reporting engine, account management workflows, a cloud-hosted Telegram bot, profile lookup utilities and a secure online license system into one cross-platform product.
+InstaReport is a premium social media automation platform developed and maintained by **iEsclyDev**. It combines an automated reporting engine, account management workflows, a cloud-hosted Telegram bot, profile lookup utilities and a secure online license system into one cross-platform product.
 
 ### Is InstaReport the same project as Credly / iEscly?
 
@@ -24,13 +24,13 @@ Yes. The project has evolved through multiple brands:
 |------|-------|
 | 2021 | Credly |
 | 2022 – 2026 | iEscly |
-| 2026 – Present | iExly |
+| 2026 – Present | iEsclyDev |
 
 Your previous version knowledge still applies — the product simply operates under a new identity.
 
 ### Who maintains InstaReport?
 
-InstaReport is officially maintained by the **iExly** organization. Any repository, seller or channel claiming to be official should be cross-checked against the [official resources](README.md#-beware-of-fake-copies).
+InstaReport is officially maintained by the **iEsclyDev** organization. Any repository, seller or channel claiming to be official should be cross-checked against the [official resources](README.md#-beware-of-fake-copies).
 
 ---
 
@@ -187,6 +187,6 @@ Local credential storage uses strong encryption (PBKDF2 with 480,000 iterations)
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
