@@ -63,6 +63,6 @@ Only media posted by the **official team** reflects the real product. Fake copie
 
 <div align="center">
 
-Copyright © 2021 – 2026 iExly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyDev. All rights reserved.
 
 </div>
