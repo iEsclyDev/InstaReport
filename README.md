@@ -14,7 +14,7 @@
 
 **Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iEscly](https://github.com/iEsclyDev)**
 
-Originally created under the **Credly** project, later known as **iEscly**, now released as **InstaReport** by **iExly**.
+Originally created under the **Credly** project, later known as **iEscly**, now released as **InstaReport** by **iEsclyDev**.
 
 ---
 
@@ -76,7 +76,7 @@ The history of InstaReport spans multiple years of active development.
 |------|-------|
 | 2021 | **Credly** |
 | 2022 – 2026 | **iEscly** |
-| 2026 – Present | **iExly** |
+| 2026 – Present | **iEsclyDev** |
 
 Thousands of hours have gone into building, maintaining, improving and supporting this software across multiple platforms. This repository represents the latest official release.
 
@@ -386,14 +386,14 @@ Project demonstrations, customer work examples and feature previews are regularl
 <details>
 <summary><strong>What is InstaReport?</strong></summary>
 
-InstaReport is a premium social media automation platform developed and maintained by **iExly**. It provides automated reporting workflows, account management tools and a Telegram bot, with active development since 2021.
+InstaReport is a premium social media automation platform developed and maintained by **iEsclyDev**. It provides automated reporting workflows, account management tools and a Telegram bot, with active development since 2021.
 
 </details>
 
 <details>
 <summary><strong>Is this the same project as Credly / iEscly?</strong></summary>
 
-Yes. The project began as **Credly** (2021), was rebranded to **iEscly** (2022–2026), and is now published under the **iExly** organization (2026–present). Your previous version knowledge still applies.
+Yes. The project began as **Credly** (2021), was rebranded to **iEscly** (2022–2026), and is now published under the **iEsclyDev** organization (2026–present). Your previous version knowledge still applies.
 
 </details>
 
