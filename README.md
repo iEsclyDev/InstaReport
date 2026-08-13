@@ -312,6 +312,7 @@ Same license, same engine, same backend as the Telegram bot — activate once an
 |---------|-------------|
 | `/start` | Welcome screen |
 | `/menu` | Main control panel |
+| `/quickstart` | Guided setup: report, appeal or lookup |
 | `/activate` | Activate your license code |
 | `/report <target>` | Start a report |
 | `/stop` | Stop your active report |
@@ -323,11 +324,14 @@ Same license, same engine, same backend as the Telegram bot — activate once an
 | `/favorites` | Your saved favorite targets |
 | `/fav add <target>` | Add a favorite target |
 | `/fav del <target>` | Remove a favorite target |
+| `/lookup` | Scrape a profile's public stats |
+| `/appeal` | Submit an appeal to a platform |
 | `/balance` | Check your balance |
 | `/refund <amount>` | Request a refund / withdrawal |
 | `/refundstatus` | Refund request history |
 | `/banpay` | Purchase a ban/unban via crypto |
 | `/banstatus` | Ban/unban request history |
+| `/cancel` | Cancel the current action |
 | `/help` | List all commands |
 
 ### Admin Commands
