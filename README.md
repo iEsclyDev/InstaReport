@@ -213,12 +213,28 @@ InstaReport-installer-Windows-x86_64.exe
 
 ### 🐧 Linux
 
+1. Download the latest Linux packages from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instareport/releases)):
+   - `InstaReport-Linux-x86_64.deb` — Debian/Ubuntu package
+   - `InstaReport-Linux-x86_64.AppImage` — portable AppImage
+
+2. Install the `.deb`:
+
 ```bash
-chmod +x InstaReport-Linux-x86_64.bin
-./InstaReport-Linux-x86_64.bin
+sudo apt install ./InstaReport-Linux-x86_64.deb
+instareport
 ```
 
-No Python installation required for the standalone binary.
+Or run the AppImage directly:
+
+```bash
+chmod +x InstaReport-Linux-x86_64.AppImage
+./InstaReport-Linux-x86_64.AppImage
+```
+
+> If FUSE is unavailable, run with `APPIMAGE_EXTRACT_AND_RUN=1 ./InstaReport-Linux-x86_64.AppImage`.
+
+3. Enter your license key.
+4. Done — Playwright Chromium is bundled, no Python/browser installation required.
 
 ### 🤖 Android (Termux)
 

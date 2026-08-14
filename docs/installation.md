@@ -51,19 +51,32 @@ InstaReport ships as **standalone binaries** for Windows and Linux, and a **Pyth
 ### Requirements
 
 - Ubuntu, Kali Linux or Debian (64-bit).
-- No Python installation required for the standalone binary.
+- No Python installation required — Playwright Chromium is bundled.
 
 ### Installation
 
+Option A — `.deb` package (Debian/Ubuntu):
+
 ```bash
-chmod +x InstaReport-Linux-x86_64.bin
-./InstaReport-Linux-x86_64.bin
+sudo apt install ./InstaReport-Linux-x86_64.deb
+instareport
 ```
+
+Option B — portable AppImage:
+
+```bash
+chmod +x InstaReport-Linux-x86_64.AppImage
+./InstaReport-Linux-x86_64.AppImage
+```
+
+> If FUSE is unavailable, run with `APPIMAGE_EXTRACT_AND_RUN=1 ./InstaReport-Linux-x86_64.AppImage`.
+
+Download both from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases) or [GitHub Releases](https://github.com/iEsclyDev/instareport/releases).
 
 ### First Run
 
-1. Make the binary executable (`chmod +x`).
-2. Run it from a terminal.
+1. Install or run the package (above).
+2. Launch InstaReport.
 3. Enter your license key.
 4. Done.
 
