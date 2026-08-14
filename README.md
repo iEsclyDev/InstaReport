@@ -201,11 +201,11 @@ Choose your preferred platform.
 
 ### 🪟 Windows
 
-1. Download the latest Windows release from [GitHub Releases](https://github.com/iEsclyDev/instareport/releases).
+1. Download the latest Windows installer from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instareport/releases)).
 2. Run:
 
 ```
-InstaReport-Windows-x86-64.exe
+InstaReport-installer-Windows-x86_64.exe
 ```
 
 3. Enter your license key.
