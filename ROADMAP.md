@@ -4,15 +4,12 @@
 
 ---
 
-## Recently Shipped — v8.7.5
+## Recently Shipped — v9.0.0
 
-- ✅ Randomized action delays (±30% jitter) to mimic human behavior
-- ✅ Exponential backoff on retry (`min(10 × 2^attempt, 300s)`)
-- ✅ Account health pre-check before campaigns
-- ✅ Bulk target import from `.txt`
-- ✅ Auto-update check on startup
-- ✅ Campaign resume infrastructure (SQLite-backed progress)
-- ✅ Stealth & safe modes, proxy support with blacklisting
+- ✅ All 12 previously-stubbed tools fully implemented — VIP Bypass, API Hookpoint, Identity Swap, Flag Override, Account Restore, Dark Pattern, Network Spoof, Behavior Mimic, Header Forge, Canvas Spoof, WebRTC Block, TLS Fingerprint
+- ✅ New desktop UI — Tauri 2 + React 19 shell with a Python sidecar engine
+- ✅ Self-contained Windows installer — Playwright Chromium bundled, no Python/browser install needed (~228 MB)
+- ✅ Self-signed code signing (CN=InstaReport)
 
 ---
 

@@ -25,7 +25,7 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 
 [![GitHub stars](https://img.shields.io/github/stars/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/network)
-[![Version](https://img.shields.io/badge/Version-v8.7.5-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyDev/instareport/releases)
+[![Version](https://img.shields.io/badge/Version-v9.0.0-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyDev/instareport/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/iEsclyDev/instareport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyDev/instareport/commits/main)
 
 </div>
@@ -134,7 +134,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | ❤️ Dedicated Support | ✅ |
 | 💎 Multiple License Plans | ✅ |
 
-### Engine Highlights (v8.7.5)
+### Engine Highlights (v9.0.0)
 
 - **Adaptive request timing** — configurable delays with automatic jitter help manage rate limits and improve reliability.
 - **Exponential backoff on retry** — account retries use `min(10 × 2^attempt, 300s)` + random jitter instead of linear steps, greatly improving success rate under rate limits.

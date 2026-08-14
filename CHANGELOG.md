@@ -10,6 +10,15 @@
 
 ---
 
+## [9.0.0] — 2026-08-14
+
+### 🚀 New Release
+
+- **All 12 previously-stubbed tools fully implemented** — VIP Bypass, API Hookpoint, Identity Swap, Flag Override, Account Restore, Dark Pattern, Network Spoof, Behavior Mimic, Header Forge, Canvas Spoof, WebRTC Block, TLS Fingerprint
+- **New desktop UI** — Tauri 2 + React 19 shell with a Python sidecar engine
+- **Self-contained Windows installer** — Playwright Chromium bundled, no Python/browser install needed (~228 MB)
+- **Self-signed code signing** — signature (CN=InstaReport); SmartScreen may still warn
+
 ## [8.7.5] — 2026-08-08
 
 ### 🔧 Improvements
