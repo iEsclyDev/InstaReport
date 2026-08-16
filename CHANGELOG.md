@@ -10,6 +10,14 @@
 
 ---
 
+
+## [9.0.1] - 2026-08-16
+
+### ?? Bug Fixes
+
+- **Profile Scanner fully functional** - the Lookup tab previously showed no results; it now returns display name, bio, verified/private status, posts, followers, following and join date
+- **Fixed browser context error** - an `accept_language` TypeError broke profile scanning, engagement and other lookup tools whenever TLS Fingerprinting was enabled
+- **Linux browser alignment** - bundled Chromium now matches the engine (chromium-1134)
 ## [9.0.0] — 2026-08-14
 
 ### 🚀 New Release
