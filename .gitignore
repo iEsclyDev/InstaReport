@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.local
+*.log
+
+# Desktop app build artifacts
+desktop/src-tauri/target/
+desktop/node_modules/
+desktop/sidecar/browsers/
+desktop/sidecar/build/
+desktop/sidecar/__pycache__/
+desktop/.pem
+desktop/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
