@@ -34,6 +34,10 @@ jobs:
         with:
           workspaces: desktop/src-tauri
 
+      - name: Create empty browsers dir (resource path required by base config)
+        working-directory: desktop
+        run: mkdir -p sidecar/browsers
+
       - name: Build Tauri app
         working-directory: desktop
         run: npx tauri build --target aarch64-apple-darwin
