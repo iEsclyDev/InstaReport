@@ -21,7 +21,7 @@
 
 ### License expired
 
-Renew or purchase a new license via the [official pricing page](https://instagramban.lovable.app/pricing).
+Renew or purchase a new license via the [official pricing page](https://iescly.duckdns.org/pricing).
 
 ### "Invalid license key"
 

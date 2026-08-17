@@ -32,7 +32,7 @@ To help us resolve your issue faster, please have ready:
 | [Troubleshooting](docs/troubleshooting.md) | Common issues and solutions |
 | [FAQ](FAQ.md) | Frequently asked questions |
 | [Changelog](CHANGELOG.md) | What changed in each release |
-| [Online Changelog](https://instagramban.lovable.app/changelog) | Changelog on the website |
+| [Online Changelog](https://iescly.duckdns.org/changelog) | Changelog on the website |
 
 ---
 
@@ -48,7 +48,7 @@ To help us resolve your issue faster, please have ready:
 
 ## Refund Requests
 
-Refund eligibility follows the terms published on the [official pricing page](https://instagramban.lovable.app/pricing). To request a refund, contact support via the official Telegram channel and provide your purchase details.
+Refund eligibility follows the terms published on the [official pricing page](https://iescly.duckdns.org/pricing). To request a refund, contact support via the official Telegram channel and provide your purchase details.
 
 ---
 

@@ -18,8 +18,8 @@ Originally created under the **Credly** project, later known as **iEscly**, now 
 
 ---
 
-[![Official Website](https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge&logo=web)](https://instagramban.lovable.app)
-[![Purchase License](https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge&logo=security)](https://instagramban.lovable.app/pricing)
+[![Official Website](https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge&logo=web)](https://iescly.duckdns.org)
+[![Purchase License](https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge&logo=security)](https://iescly.duckdns.org/pricing)
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@instaReportV2Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/instaReportV2Bot)
 [![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iEsclyDev/instareport)
 
@@ -90,7 +90,7 @@ Due to the popularity of the project, there are unofficial repositories, fake se
 
 | Official Resource | Link |
 |-------------------|------|
-| 🌐 Official Website | <https://instagramban.lovable.app> |
+| 🌐 Official Website | <https://iescly.duckdns.org> |
 | ⭐ Official GitHub | <https://github.com/iEsclyDev/instareport> |
 | 💬 Official Telegram | <https://t.me/iescly> |
 | 🎮 Official Discord | <https://discord.com/invite/v6ebT5aFx> |
@@ -276,7 +276,7 @@ The cloud-hosted Telegram bot is available at [@instaReportV2Bot](https://t.me/i
 
 ## 🔑 License Activation
 
-1. Purchase a license from the [official pricing page](https://instagramban.lovable.app/pricing).
+1. Purchase a license from the [official pricing page](https://iescly.duckdns.org/pricing).
 2. Launch InstaReport.
 3. Enter your activation key.
 4. Begin using supported features.
@@ -448,7 +448,7 @@ No. The Windows and Linux standalone binaries require no Python installation.
 <details>
 <summary><strong>How do I get a license?</strong></summary>
 
-Visit the [official pricing page](https://instagramban.lovable.app/pricing) to purchase a license. Licenses are validated online and bound to your device.
+Visit the [official pricing page](https://iescly.duckdns.org/pricing) to purchase a license. Licenses are validated online and bound to your device.
 
 </details>
 
@@ -469,7 +469,7 @@ See the pricing page and [SUPPORT.md](SUPPORT.md) for the applicable refund term
 <details>
 <summary><strong>Where can I see updates and changes?</strong></summary>
 
-Check the [CHANGELOG.md](CHANGELOG.md) or the [online changelog](https://instagramban.lovable.app/changelog).
+Check the [CHANGELOG.md](CHANGELOG.md) or the [online changelog](https://iescly.duckdns.org/changelog).
 
 </details>
 
@@ -499,7 +499,7 @@ Check the [CHANGELOG.md](CHANGELOG.md) or the [online changelog](https://instagr
 
 The InstaReport community has been growing since 2021.
 
-- 🌐 **Website:** <https://instagramban.lovable.app>
+- 🌐 **Website:** <https://iescly.duckdns.org>
 - 💬 **Telegram:** <https://t.me/iescly>
 - 🎮 **Discord:** <https://discord.com/invite/v6ebT5aFx>
 - 📺 **YouTube:** <https://youtube.com/@iEscly>
@@ -516,7 +516,7 @@ Every major version introduces improvements in performance, compatibility, stabi
 
 Full changelog:
 
-- **Online:** <https://instagramban.lovable.app/changelog>
+- **Online:** <https://iescly.duckdns.org/changelog>
 - **Repository:** [CHANGELOG.md](CHANGELOG.md)
 
 ---

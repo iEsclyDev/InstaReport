@@ -80,7 +80,7 @@ No Python installation required for the standalone binary.
 
 ### How do I purchase a license?
 
-Visit the [official pricing page](https://instagramban.lovable.app/pricing) and choose the plan that fits your needs.
+Visit the [official pricing page](https://iescly.duckdns.org/pricing) and choose the plan that fits your needs.
 
 ### How does license activation work?
 
@@ -101,7 +101,7 @@ No. Licenses are bound to a device hardware ID and validated online.
 
 ### My license expired — what now?
 
-Renew or purchase a new license via the [official pricing page](https://instagramban.lovable.app/pricing).
+Renew or purchase a new license via the [official pricing page](https://iescly.duckdns.org/pricing).
 
 ---
 
@@ -169,7 +169,7 @@ Contact the official Telegram channel or review [SUPPORT.md](SUPPORT.md).
 
 ### Is there a refund policy?
 
-Refund eligibility follows the terms published on the [official pricing page](https://instagramban.lovable.app/pricing). Contact support to request a refund.
+Refund eligibility follows the terms published on the [official pricing page](https://iescly.duckdns.org/pricing). Contact support to request a refund.
 
 ---
 

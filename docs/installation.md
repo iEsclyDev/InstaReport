@@ -18,7 +18,7 @@ InstaReport ships as **standalone binaries** for Windows and Linux, and a **Pyth
 
 | Resource | Link |
 |----------|------|
-| Official Website | <https://instagramban.lovable.app> |
+| Official Website | <https://iescly.duckdns.org> |
 | Official GitHub | <https://github.com/iEsclyDev/instareport> |
 | Official Telegram | <https://t.me/iescly> |
 
@@ -119,7 +119,7 @@ The cloud-hosted Telegram bot is available at [@instaReportV2Bot](https://t.me/i
 
 ## 🔑 License Activation
 
-1. Purchase a license from the [official pricing page](https://instagramban.lovable.app/pricing).
+1. Purchase a license from the [official pricing page](https://iescly.duckdns.org/pricing).
 2. Launch InstaReport.
 3. Enter your activation key.
 4. The app validates the key online and binds it to your device.

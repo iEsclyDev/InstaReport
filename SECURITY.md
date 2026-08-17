@@ -44,7 +44,7 @@ When reporting, please include:
 ## Security Notes for Users
 
 - Only download InstaReport from the **official** resources:
-  - Website: <https://instagramban.lovable.app>
+  - Website: <https://iescly.duckdns.org>
   - GitHub: <https://github.com/iEsclyDev/instareport>
   - Telegram: <https://t.me/iescly>
 - Beware of **fake copies** and impersonators. Always verify the channel before downloading software or purchasing licenses.
