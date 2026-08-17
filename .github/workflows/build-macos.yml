@@ -42,7 +42,7 @@ jobs:
         working-directory: desktop
         run: npx tauri build --target aarch64-apple-darwin
         env:
-          APPLE_SIGNING_IDENTITY: ""
+          APPLE_SIGNING_IDENTITY: "-"
 
       - name: List artifacts
         working-directory: desktop
