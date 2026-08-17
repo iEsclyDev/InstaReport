@@ -157,6 +157,7 @@ InstaReport has remained under active development since **2021**, making it one 
 | 🐧 Ubuntu | ✅ Supported |
 | 🐉 Kali Linux | ✅ Supported |
 | 🐧 Debian | ✅ Supported |
+| 🍎 macOS (Apple Silicon) | ✅ Supported |
 | 🤖 Android (Termux) | ✅ Supported |
 | 💬 Telegram Bot | ✅ Supported |
 | 🎮 Discord Bot | ✅ Supported |
@@ -235,6 +236,19 @@ chmod +x InstaReport-Linux-x86_64.AppImage
 
 3. Enter your license key.
 4. Done — Playwright Chromium is bundled, no Python/browser installation required.
+
+### 🍎 macOS (Apple Silicon)
+
+> The macOS build is a lightweight Tauri 2 app (~3 MB) that uses your system's built-in WebKit browser engine instead of bundling one — that's why it's so small compared to the Windows/Linux builds. Browser automation features (local profile scanning via Playwright) are not included yet; all other features work through the API.
+
+1. Download `InstaReport_9.0.1_aarch64.dmg` from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases/v9.0.1).
+2. Open the `.dmg` file and drag **InstaReport** into your **Applications** folder.
+3. On first launch, macOS will block the app because it's unsigned. To open it:
+   - **Right-click** (or Control-click) the InstaReport app in Applications
+   - Select **Open** from the context menu
+   - Click **Open** in the security dialog
+4. Enter your license key.
+5. Done — requires macOS 11.0 (Big Sur) or later, Apple Silicon (M1/M2/M3/M4).
 
 ### 🤖 Android (Termux)
 
